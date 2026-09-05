@@ -1,0 +1,8 @@
+[
+  {
+    "id": "test_game",
+    "title": "Test Game",
+    "platform": "genesis",
+    "rom": "https://raw.githubusercontent.com/Namydevx/NamyEmulator/main/games/test_game.bin"
+  }
+]
