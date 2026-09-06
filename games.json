@@ -21,5 +21,13 @@
         "rom":  "https://raw.githubusercontent.com/Namydevx/games/main/genesis/Tetris%20(Japan).zip",
         "poster":  "https://raw.githubusercontent.com/Namydevx/games/main/genesis/posters/tetris.png",
         "sha256":  "f861b69dec8af2fb8565b4c96bb2aefcf2ff1681809d301beb759bcf695094b8"
+    },
+    {
+        "id":  "ultimate_mortal_kombat_3",
+        "title":  "Ultimate Mortal Kombat 3",
+        "platform":  "genesis",
+        "rom":  "https://raw.githubusercontent.com/Namydevx/games/main/genesis/Ultimate%20Mortal%20Kombat%203.zip",
+        "poster":  "https://raw.githubusercontent.com/Namydevx/games/main/genesis/posters/ultimate_mortal_kombat_3.png",
+        "sha256":  "0706c4b232a5c3cfc2117cb6f6b5a2f09f560aa4f8c2e7f078509394eb3fcc7f"
     }
 ]
