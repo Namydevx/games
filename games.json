@@ -11,7 +11,7 @@
         "title":  "Columns",
         "platform":  "genesis",
         "rom":  "https://raw.githubusercontent.com/Namydevx/games/main/genesis/Columns.zip",
-        "poster":  "",
+        "poster":  "https://raw.githubusercontent.com/Namydevx/games/main/genesis/posters/columns.jpg",
         "sha256":  "85c1cbf2eb0a40d1c33dbe05576676381995c4fdab70726e7ea0aa50016eafa7"
     },
     {
