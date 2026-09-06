@@ -1,9 +1,25 @@
 [
-  {
-    "id": "contra_hard_corps",
-    "title": "Contra - Hard Corps",
-    "platform": "genesis",
-    "poster": "https://raw.githubusercontent.com/Namydevx/games/main/genesis/Contra%20-%20Hard%20Corps.jpg",
-    "rom": "https://raw.githubusercontent.com/Namydevx/games/main/genesis/Contra%20-%20Hard%20Corps.zip"
-  }
+    {
+        "id":  "contra_hard_corps",
+        "title":  "Contra - Hard Corps",
+        "platform":  "genesis",
+        "poster":  "https://raw.githubusercontent.com/Namydevx/games/main/genesis/Contra%20-%20Hard%20Corps.jpg",
+        "rom":  "https://raw.githubusercontent.com/Namydevx/games/main/genesis/Contra%20-%20Hard%20Corps.zip"
+    },
+    {
+        "id":  "columns",
+        "title":  "Columns",
+        "platform":  "genesis",
+        "rom":  "https://raw.githubusercontent.com/Namydevx/games/main/genesis/Columns.zip",
+        "poster":  "",
+        "sha256":  "85c1cbf2eb0a40d1c33dbe05576676381995c4fdab70726e7ea0aa50016eafa7"
+    },
+    {
+        "id":  "tetris",
+        "title":  "Tetris (Japan)",
+        "platform":  "genesis",
+        "rom":  "https://raw.githubusercontent.com/Namydevx/games/main/genesis/Tetris%20(Japan).zip",
+        "poster":  "",
+        "sha256":  "f861b69dec8af2fb8565b4c96bb2aefcf2ff1681809d301beb759bcf695094b8"
+    }
 ]
