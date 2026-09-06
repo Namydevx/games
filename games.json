@@ -29,5 +29,13 @@
         "rom":  "https://raw.githubusercontent.com/Namydevx/games/main/genesis/Ultimate%20Mortal%20Kombat%203.zip",
         "poster":  "https://raw.githubusercontent.com/Namydevx/games/main/genesis/posters/ultimate_mortal_kombat_3.png",
         "sha256":  "0706c4b232a5c3cfc2117cb6f6b5a2f09f560aa4f8c2e7f078509394eb3fcc7f"
+    },
+    {
+        "id":  "super_monaco_gp",
+        "title":  "Super Monaco GP",
+        "platform":  "sms",
+        "rom":  "https://raw.githubusercontent.com/Namydevx/games/main/sms/Super%20Monaco%20GP.zip",
+        "poster":  "https://raw.githubusercontent.com/Namydevx/games/main/sms/posters/super_monaco_gp.png",
+        "sha256":  "1e57d6f2b0df042d405aec7062643dfc01bc71bd6bf43b5803cb26c2af7c0794"
     }
 ]
