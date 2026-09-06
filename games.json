@@ -1,8 +1,8 @@
 [
   {
-    "id": "test_game",
-    "title": "Test Game",
+    "id": "contra_hard_corps",
+    "title": "Contra - Hard Corps",
     "platform": "genesis",
-    "rom": "https://raw.githubusercontent.com/Namydevx/NamyEmulator/main/games/test_game.bin"
+    "rom": "https://raw.githubusercontent.com/Namydevx/games/main/genesis/Contra%20-%20Hard%20Corps.zip"
   }
 ]
