@@ -45,5 +45,21 @@
         "rom":  "https://raw.githubusercontent.com/Namydevx/games/main/genesis/Tiny%20Toon%20Adventures%20-%20Buster\u0027s%20Hidden%20Treasure.zip",
         "poster":  "https://raw.githubusercontent.com/Namydevx/games/main/genesis/posters/tiny_toon_adventures_buster_s_hidden_treasure.png",
         "sha256":  "6c6609860b95bbdbb90febd86b024731d8161a63ad1bb819d1a1a483aebfb6a9"
+    },
+    {
+        "id":  "a_bug_s_life",
+        "title":  "A Bug\u0027s Life",
+        "platform":  "genesis",
+        "rom":  "https://raw.githubusercontent.com/Namydevx/games/main/genesis/A%20Bug\u0027s%20Life.zip",
+        "poster":  "",
+        "sha256":  "bfaaa7399cf4a35719f1063cc656f20752476cfd000e3f68be039d20443d460d"
+    },
+    {
+        "id":  "a_ressha_de_gyoukou_md",
+        "title":  "A Ressha de Gyoukou MD (Japan)",
+        "platform":  "genesis",
+        "rom":  "https://raw.githubusercontent.com/Namydevx/games/main/genesis/A%20Ressha%20de%20Gyoukou%20MD%20(Japan).zip",
+        "poster":  "",
+        "sha256":  "212959128b6195029b2a4648bafab60c1fc697f4af2e822d86276109a64b3aa6"
     }
 ]
