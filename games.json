@@ -37,5 +37,13 @@
         "rom":  "https://raw.githubusercontent.com/Namydevx/games/main/sms/Super%20Monaco%20GP.zip",
         "poster":  "https://raw.githubusercontent.com/Namydevx/games/main/sms/posters/super_monaco_gp.png",
         "sha256":  "1e57d6f2b0df042d405aec7062643dfc01bc71bd6bf43b5803cb26c2af7c0794"
+    },
+    {
+        "id":  "tiny_toon_adventures_buster_s_hidden_treasure",
+        "title":  "Tiny Toon Adventures - Buster\u0027s Hidden Treasure",
+        "platform":  "genesis",
+        "rom":  "https://raw.githubusercontent.com/Namydevx/games/main/genesis/Tiny%20Toon%20Adventures%20-%20Buster\u0027s%20Hidden%20Treasure.zip",
+        "poster":  "https://raw.githubusercontent.com/Namydevx/games/main/genesis/posters/tiny_toon_adventures_buster_s_hidden_treasure.png",
+        "sha256":  "6c6609860b95bbdbb90febd86b024731d8161a63ad1bb819d1a1a483aebfb6a9"
     }
 ]
