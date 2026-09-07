@@ -61,5 +61,13 @@
         "rom":  "https://raw.githubusercontent.com/Namydevx/games/main/genesis/A%20Ressha%20de%20Gyoukou%20MD%20(Japan).zip",
         "poster":  "",
         "sha256":  "212959128b6195029b2a4648bafab60c1fc697f4af2e822d86276109a64b3aa6"
+    },
+    {
+        "id":  "sunset_riders",
+        "title":  "Sunset Riders (Europe)",
+        "platform":  "genesis",
+        "rom":  "https://raw.githubusercontent.com/Namydevx/games/main/genesis/Sunset%20Riders%20(Europe).zip",
+        "poster":  "https://raw.githubusercontent.com/Namydevx/games/main/genesis/posters/sunset_riders.png",
+        "sha256":  "1283be0cd816324bac672e3ffc7e80c7f75973da8a08c24909fcc29e1ae01a42"
     }
 ]
